@@ -1,0 +1,16 @@
+C:\Users\PRAVEEN\Documents\Visual Studio 2012\Projects\ExpenseReportCalculator\ExpenseReportCalculator\bin\Debug\ExpenseReportCalculator.exe.config
+C:\Users\PRAVEEN\Documents\Visual Studio 2012\Projects\ExpenseReportCalculator\ExpenseReportCalculator\bin\Debug\ExpenseReportCalculator.exe
+C:\Users\PRAVEEN\Documents\Visual Studio 2012\Projects\ExpenseReportCalculator\ExpenseReportCalculator\bin\Debug\ExpenseReportCalculator.pdb
+C:\Users\PRAVEEN\Documents\Visual Studio 2012\Projects\ExpenseReportCalculator\ExpenseReportCalculator\bin\Debug\infragistics4.documents.excel.v14.1.dll
+C:\Users\PRAVEEN\Documents\Visual Studio 2012\Projects\ExpenseReportCalculator\ExpenseReportCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\PRAVEEN\Documents\Visual Studio 2012\Projects\ExpenseReportCalculator\ExpenseReportCalculator\obj\Debug\App.g.cs
+C:\Users\PRAVEEN\Documents\Visual Studio 2012\Projects\ExpenseReportCalculator\ExpenseReportCalculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PRAVEEN\Documents\Visual Studio 2012\Projects\ExpenseReportCalculator\ExpenseReportCalculator\obj\Debug\ExpenseReportCalculator_MarkupCompile.cache
+C:\Users\PRAVEEN\Documents\Visual Studio 2012\Projects\ExpenseReportCalculator\ExpenseReportCalculator\obj\Debug\ExpenseReportCalculator_MarkupCompile.lref
+C:\Users\PRAVEEN\Documents\Visual Studio 2012\Projects\ExpenseReportCalculator\ExpenseReportCalculator\obj\Debug\MainWindow.baml
+C:\Users\PRAVEEN\Documents\Visual Studio 2012\Projects\ExpenseReportCalculator\ExpenseReportCalculator\obj\Debug\ExpenseReportCalculator.g.resources
+C:\Users\PRAVEEN\Documents\Visual Studio 2012\Projects\ExpenseReportCalculator\ExpenseReportCalculator\obj\Debug\ExpenseReportCalculator.Properties.Resources.resources
+C:\Users\PRAVEEN\Documents\Visual Studio 2012\Projects\ExpenseReportCalculator\ExpenseReportCalculator\obj\Debug\ExpenseReportCalculator.csproj.GenerateResource.Cache
+C:\Users\PRAVEEN\Documents\Visual Studio 2012\Projects\ExpenseReportCalculator\ExpenseReportCalculator\obj\Debug\ExpenseReportCalculator.exe
+C:\Users\PRAVEEN\Documents\Visual Studio 2012\Projects\ExpenseReportCalculator\ExpenseReportCalculator\obj\Debug\ExpenseReportCalculator.pdb
+C:\Users\PRAVEEN\Documents\Visual Studio 2012\Projects\ExpenseReportCalculator\ExpenseReportCalculator\obj\Debug\ExpenseReportCalculator.csprojResolveAssemblyReference.cache
